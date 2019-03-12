@@ -3,7 +3,7 @@ This example assumes you are using Linux/MacOS
 ## First time
 1. Create a file called `body.json`
 1. Add the following JSON code to the file
-   ```
+   ```json
    {
        "auth": {
            "identity": {
