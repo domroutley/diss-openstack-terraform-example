@@ -3,7 +3,7 @@
 ## Setup
 1. Download/clone the repository into a new directory
 1. Generate a token to access OpenStack and export it to your environment ([help here](TOKENGENERATIONHELP.md))
-1. Make sure Terraform is installed on to your machine ([help here](learn.hashicorp.com/terraform/getting-started/install.html))
+1. Make sure Terraform is installed on to your machine ([help here](https://learn.hashicorp.com/terraform/getting-started/install.html))
 1. Run `terraform init` in the repository directory
 
 ## Running the module
