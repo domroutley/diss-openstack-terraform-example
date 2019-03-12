@@ -23,7 +23,7 @@ resource "openstack_networking_router_interface_v2" "router_internal_interface" 
   subnet_id           = "${openstack_networking_subnet_v2.subnet.id}"           # What subnet
 }
 
-resource "openstack_networking_floatingip_v2" "floating_ip" {               # Create a floating IP
+resource "openstack_networking_floatingip_v2" "floating_ip" {                   # Create a floating IP
   description = "Example Server IP"
   pool        = "cscloud_private_floating"                                      # What pool do we get the IP from
 }
