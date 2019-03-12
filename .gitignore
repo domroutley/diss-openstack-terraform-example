@@ -1,0 +1,9 @@
+# Terraform local directory and other Terraform local files
+**/.terraform/*
+
+# Terraform state file
+*.tfstate
+# (If you are working in a team and want to share the state file, then ignoring it is probably a bad idea)
+
+# Terraform state backup file
+*.tfstate.backup
