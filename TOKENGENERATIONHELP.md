@@ -56,4 +56,4 @@ This example assumes you are using Linux/MacOS
 
 ## Personal computers
 If you are using your own machine, you may want to use Postman instead of curl.
-[Postman homepage](www.getpostman.com)
+[Postman homepage](https://www.getpostman.com)
