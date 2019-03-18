@@ -55,5 +55,10 @@ This example assumes you are using Linux/MacOS
 
 
 ## Personal computers
-If you are using your own machine, you may want to use Postman instead of curl.
-[Postman homepage](https://www.getpostman.com)
+If you are using your own machine, you may want to use Postman instead of curl.  
+[Postman homepage](https://www.getpostman.com)  
+[Sending an API request with Postman](https://learning.getpostman.com/docs/postman/sending_api_requests/requests)  
+Helpful hints for Postman:
+- You need to set a header in the request to "Content-Type" "application/json" (Case sensitive)
+- The JSON code above goes in the body section of the request
+- Make sure not so save your password (and delete old requests as they will store your password)
